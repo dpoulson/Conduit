@@ -1,0 +1,27 @@
+
+
+Shield Generator:
+
+	Local control: 3 way switch. Off/Config/Active. -OR- 2 switches, on/off and Config/Active.
+			Config mode flashes active emitters, a button rotates through config options and flashes the correct emitters. Once correct config is selected, flick switch to Active.
+
+	Active: Active emitters pulse slowly. Top crystal pulses two colours. 
+
+
+	Circuit:
+		3 x PWM outputs for emitters
+		2 x PWM outputs for top crystal
+		2 x inputs for switches
+		1 x input for mode
+
+
+
+
+Gun
+
+	Main part: atmega, 
+
+
+	Clip: attiny
+
+	Power to attiny, input for pulse, Output for ammo left

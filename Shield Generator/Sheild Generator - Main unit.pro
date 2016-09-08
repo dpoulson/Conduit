@@ -1,25 +1,25 @@
 EAGLE AutoRouter Statistics:
 
-Job           : /home/daz/Documents/Projects/Tree/Tree - LARP/Sheild Generator - Main unit.brd
+Job           : /home/daz/Google Drive/Projects/Conduit/Shield Generator/Sheild Generator - Main unit.brd
 
-Start at      : 21:18:49 (05/03/2014)
-End at        : 21:18:50 (05/03/2014)
-Elapsed time  : 00:00:01
+Start at      : 21:56:02 (06/09/2016)
+End at        : 21:56:48 (06/09/2016)
+Elapsed time  : 00:00:44
 
-Signals       :    38   RoutingGrid: 50 mil  Layers: 2
-Connections   :    82   predefined:  1 ( 0 Vias )
+Signals       :    36   RoutingGrid: 12.5 mil  Layers: 2
+Connections   :    82   predefined:  64 ( 0 Vias )
 
-Router memory :   16936
+Router memory :   222600
 
 Passname          :    Busses     Route Optimize1 Optimize2 Optimize3 Optimize4
 
-Time per pass     :  00:00:00  00:00:00  00:00:00  00:00:00  00:00:00  00:00:01
-Number of Ripups  :         0         1         0         0         0         0
-max. Level        :         0         1         0         0         0         0
-max. Total        :         0        26         0         0         0         0
+Time per pass     :  00:00:00  00:00:01  00:00:00  00:00:01  00:00:00  00:00:42
+Number of Ripups  :         0         0         0         0         0         0
+max. Level        :         0         0         0         0         0         0
+max. Total        :         0         0         0         0         0         0
 
-Routed            :        19        58        58        58        58        58
-Vias              :         0        49        12        10         9        10
-Resolution        :    24.4 %    72.0 %    72.0 %    72.0 %    72.0 %    72.0 %
+Routed            :         2        18        18        18        18        18
+Vias              :         0        37        14         9         9         9
+Resolution        :    80.5 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
 
-Final             : 72.0% finished
+Final             : 96.3% finished. Polygons may have fallen apart.

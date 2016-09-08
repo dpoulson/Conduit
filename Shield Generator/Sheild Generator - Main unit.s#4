@@ -7471,6 +7471,12 @@ Source: DCJ0202.pdf</description>
 <classes>
 <class number="0" name="default" width="0" drill="0">
 </class>
+<class number="1" name="GND" width="2.032" drill="2.032">
+<clearance class="1" value="2.032"/>
+</class>
+<class number="2" name="+12V" width="4.064" drill="4.064">
+<clearance class="2" value="4.064"/>
+</class>
 </classes>
 <parts>
 <part name="FRAME1" library="frames" deviceset="A4L-LOC" device=""/>
@@ -7733,6 +7739,7 @@ Source: DCJ0202.pdf</description>
 <wire x1="15.24" y1="149.86" x2="15.24" y2="132.08" width="0.1524" layer="91"/>
 <junction x="33.02" y="99.06"/>
 <junction x="15.24" y="132.08"/>
+<junction x="25.4" y="93.98"/>
 </segment>
 <segment>
 <pinref part="GND7" gate="1" pin="GND"/>
